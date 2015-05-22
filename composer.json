@@ -1,0 +1,17 @@
+{
+    "name": "dan-coulter/phpflickr",
+    "version": "1.0.0",
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kevinsperrine/phpflickr"
+        }
+    ],
+
+    "autoload": {
+        "classmap": [
+            "phpFlickr.php"
+        ]
+    }
+}
